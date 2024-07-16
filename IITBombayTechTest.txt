@@ -1,0 +1,42 @@
+dataset sentiment analysis : https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset
+
+
+
+Gamified Task Allocation:::
+
+Task allocation:
+Gradient boosting and Task prioritization- Reinforcement LEarning (Dueling DQN)
+
+
+
+AI Excellence:::
+
+Real-Time Emotion Analysis:
+
+NLP - Natural Language Processing
+Deep Learning Model - XLNet
+
+Chatbot:
+
+Dialogflow (Google)
+
+User Interface:::
+
+Frontend:
+React.js
+HTML/CSS
+
+Backend:
+Node.js
+
+Database:
+Firebase
+
+
+
+
+
+
+
+
+
